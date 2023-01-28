@@ -28,3 +28,4 @@ if (operation === 'add') {
 } if (operation === 'subtract') {
     console.log(subNum(firstNum, secNum))
 }
+
